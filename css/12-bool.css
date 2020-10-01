@@ -14,7 +14,7 @@
   float: left;
 }
 /* LG---DESKTOP--- */
-@media screen and (min-width: 992px); {
+@media screen and (min-width: 992px) {
   .col-lg-1 {
     width: calc((100% / 12) *1);
   }
@@ -92,7 +92,7 @@
 
 }
 /* MD---TABLET--- */
-@media screen and (min-width: 768px) and (max-width: 991px); {
+@media screen and (min-width: 768px) and (max-width: 991px) {
   .col-md-1 {
     width: calc((100% / 12) *1);
   }
@@ -170,7 +170,7 @@
 
 }
 /* XS---SMARTPHONE--- */
-@media screen and (min-width: 0px) and (max-width: 767px); {
+@media screen and (min-width: 0px) and (max-width: 767px) {
   .col-xs-1 {
     width: calc((100% / 12) *1);
   }
