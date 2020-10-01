@@ -10,6 +10,7 @@
   margin-top: 100px;
 }
 
+
 /* BLOCCO LEZIONI */
 #lezioni .row>.left,
 #lezioni .row>.right {
@@ -65,7 +66,7 @@
   clear: both;
 }
 
-.container.grey {
+.background.grey {
   background-color: #f9f9f9;
 }
 
